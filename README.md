@@ -1,2 +1,1 @@
-# Nexus
-# "Nexus" nghĩa là kết nối
+# Template cho dự án ASP.NET Core Web API
