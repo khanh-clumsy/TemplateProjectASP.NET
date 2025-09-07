@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|solutionrelative:nexus.webapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|solutionrelative:nexus.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|solutionrelative:nexus.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\nexus.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\nexus.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\nexus.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\nexus.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C3EFD5-999D-4E25-969A-85806664F317}|Nexus.WebApi\\Nexus.WebApi.csproj|solutionrelative:nexus.webapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|solutionrelative:nexus.webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6491045F-29C4-455E-94E7-1B9C489A7BC5}|Nexus.WebApp\\Nexus.WebApp.csproj|solutionrelative:nexus.webapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|solutionrelative:nexus.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|solutionrelative:nexus.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|solutionrelative:nexus.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.infrastructure\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|solutionrelative:nexus.infrastructure\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|solutionrelative:nexus.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.application\\dtos\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|solutionrelative:nexus.application\\dtos\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402A832F-C87E-494D-BEB3-FC39D1325793}|Nexus.Application\\Nexus.Application.csproj|solutionrelative:nexus.application\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.infrastructure\\context\\nexuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|solutionrelative:nexus.infrastructure\\context\\nexuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A284A52-9E68-42DB-BD82-2BF28B402A02}|Nexus.Domain\\Nexus.Domain.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.domain\\nexus.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A284A52-9E68-42DB-BD82-2BF28B402A02}|Nexus.Domain\\Nexus.Domain.csproj|solutionrelative:nexus.domain\\nexus.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|c:\\fptu\\code\\nexus-main\\nexus-main\\nexus\\nexus.infrastructure\\nexus.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D8DAAF8-9F4C-46FF-B5FF-C150F1BCF0F2}|Nexus.Infrastructure\\Nexus.Infrastructure.csproj|solutionrelative:nexus.infrastructure\\nexus.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nexus.WebApi",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Nexus.WebApi.csproj",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\Nexus.WebApi.csproj",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Nexus.WebApi.csproj",
+              "RelativeToolTip": "Nexus.WebApi\\Nexus.WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T18:44:31.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "Nexus.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T18:41:24.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\appsettings.json",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\appsettings.json",
+              "RelativeToolTip": "Nexus.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T18:41:25.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Nexus.WebApi\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:28:34.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\Controller\\UserController.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Controller\\UserController.cs",
+              "RelativeToolTip": "Nexus.WebApi\\Controller\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:28:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Nexus.WebApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Nexus.WebApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:10:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Nexus.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Nexus.Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:30:40.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nexus.WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nexus.WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T17:10:22.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nexus.WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nexus.WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:26:54.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Nexus.WebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Nexus.WebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T17:10:21.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nexus.WebApi.http",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Nexus.WebApi.http",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\Nexus.WebApi.http",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Nexus.WebApi.http",
+              "RelativeToolTip": "Nexus.WebApi\\Nexus.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-05T09:26:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Nexus.WebApi\\Program.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.WebApi\\Program.cs",
+              "RelativeToolTip": "Nexus.WebApi\\Program.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAqwIUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:28:07.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Nexus.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Nexus.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:01:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Nexus.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Nexus.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:01:27.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "Nexus.Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "Nexus.Application\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:00:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Nexus.Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Nexus.Infrastructure\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:01:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Nexus.Application\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Nexus.Application\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:59:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Dtos\\Login\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Nexus.Application\\Dtos\\Login\\LoginDto.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Dtos\\Login\\LoginDto.cs",
+              "RelativeToolTip": "Nexus.Application\\Dtos\\Login\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:59:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Nexus.Application\\Mappings\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Application\\Mappings\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Nexus.Application\\Mappings\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:59:50.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NexusContext.cs",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Context\\NexusContext.cs",
+              "RelativeDocumentMoniker": "Nexus.Infrastructure\\Context\\NexusContext.cs",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Context\\NexusContext.cs",
+              "RelativeToolTip": "Nexus.Infrastructure\\Context\\NexusContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T09:30:44.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Nexus.Domain.csproj",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Domain\\Nexus.Domain.csproj",
+              "RelativeDocumentMoniker": "Nexus.Domain\\Nexus.Domain.csproj",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Domain\\Nexus.Domain.csproj",
+              "RelativeToolTip": "Nexus.Domain\\Nexus.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T09:27:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Nexus.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Nexus.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Nexus.Infrastructure\\Nexus.Infrastructure.csproj",
+              "ToolTip": "C:\\FPTU\\Code\\Nexus-main\\Nexus-main\\Nexus\\Nexus.Infrastructure\\Nexus.Infrastructure.csproj",
+              "RelativeToolTip": "Nexus.Infrastructure\\Nexus.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T09:27:08.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
